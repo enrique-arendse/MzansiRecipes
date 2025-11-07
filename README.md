@@ -25,7 +25,8 @@
 - Enrique Arendse – ST10302006
 
 ## Video Link
-https://youtu.be/6LzYR9QMYmw 
+https://youtu.be/6LzYR9QMYmw - PART 3(POE)
+https://youtu.be/nLh78x2sff4 - PART 2
 
 ## Link to Repository 
 https://github.com/Rique14/MzansiRecipes 
