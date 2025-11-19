@@ -29,7 +29,7 @@
 - https://youtu.be/nLh78x2sff4 - PART 2
 
 ## Link to Repository 
-https://github.com/Rique14/MzansiRecipes 
+https://github.com/enrique-arendse/MzansiRecipes  
 
 ## Mzansi Recipes Logo 
 <img width="400" height="400" alt="ic_pot_icon" src="https://github.com/user-attachments/assets/d529af05-3864-4d6d-9544-d8ea9ec75543" />
